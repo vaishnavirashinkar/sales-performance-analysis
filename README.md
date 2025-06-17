@@ -23,7 +23,7 @@ This project involves cleaning, analyzing, and visualizing sales data using Pyth
 
 ## 📁 Project Structure:
 
-```
+
 sales-performance-analysis/
 ├── sales_data.csv
 ├── sales_analysis.ipynb
@@ -33,7 +33,7 @@ sales-performance-analysis/
 ├── age_distribution.png
 ├── top_customers.png
 ├── README.md
-```
+
 
 
 

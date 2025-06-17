@@ -1,6 +1,6 @@
 # 📊 Sales Performance Analysis
 
-This project involves cleaning, analyzing, and visualizing sales data using Python. It helps identify key trends in customer behavior, product performance, and revenue generation.
+This project involves cleaning, analyzing, and visualizing retail sales data using Python. It aims to identify sales trends, customer behavior, and top-performing product categories.
 
 ---
 
@@ -21,28 +21,7 @@ This project involves cleaning, analyzing, and visualizing sales data using Pyth
 
 ---
 
-## 📁 Project Structure:
-
-
-sales-performance-analysis/
-├── sales_data.csv
-├── sales_analysis.ipynb
-├── monthly_sales.png
-├── category_sales.png
-├── gender_sales.png
-├── age_distribution.png
-├── top_customers.png
-├── README.md
-
-
-
-
-
-
-
-
-
-
+## 📈 Output Visualizations:
 
 ### 1. Monthly Sales Trend
 ![Monthly Sales](monthly_sales.png)
@@ -66,11 +45,29 @@ sales-performance-analysis/
 - 💰 **Total Revenue:** ₹ 4,56,000  
 - 📦 **Total Quantity Sold:** 2,514 units  
 - 👕 **Most Selling Category:** Clothing  
-- 👩‍🦰 **Female customers contributed slightly higher total sales**  
-- 👤 **Most buyers belong to the 25–40 age group**  
-- 🏆 **Top 10 customers generated more than 20% of total revenue**
+- 👩‍🦰 **Female customers contributed slightly more to total sales**  
+- 👤 **Age group 25–40 dominated the purchases**  
+- 🏆 **Top 10 customers generated 20%+ of total revenue**
 
 ---
 
 ## 📁 Project Structure:
 
+```
+sales-performance-analysis/
+├── sales_data.csv
+├── sales_analysis.ipynb
+├── monthly_sales.png
+├── category_sales.png
+├── gender_sales.png
+├── age_distribution.png
+├── top_customers.png
+├── README.md
+```
+
+---
+
+## 👩‍💻 Author:
+**Vaishnavi Rashinkar**  
+  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/vaishnavi-rashinkar/)

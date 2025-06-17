@@ -21,7 +21,28 @@ This project involves cleaning, analyzing, and visualizing sales data using Pyth
 
 ---
 
-## 📈 Output Visualizations:
+## 📁 Project Structure:
+
+```
+sales-performance-analysis/
+├── sales_data.csv
+├── sales_analysis.ipynb
+├── monthly_sales.png
+├── category_sales.png
+├── gender_sales.png
+├── age_distribution.png
+├── top_customers.png
+├── README.md
+```
+
+
+
+
+
+
+
+
+
 
 ### 1. Monthly Sales Trend
 ![Monthly Sales](monthly_sales.png)

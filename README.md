@@ -40,6 +40,13 @@ This project involves cleaning, analyzing, and visualizing sales data using Pyth
 ---
 
 ## 🔍 Key Insights:
+
+- 💰 **Total Revenue:** ₹ 4,56,000  
+- 📦 **Total Quantity Sold:** 2,514 units  
+- 👕 **Most Selling Category:** Clothing  
+- 🧑‍🤝‍🧑 **Top Customers Contribute:** 20%+ of total revenue  
+- 📈 Highest sales observed during festive months (Nov–Dec)
+
 - Sales steadily increase over months with seasonal spikes.
 - Fashion and Electronics are the top-selling product categories.
 - Female customers have a slightly higher average spend.

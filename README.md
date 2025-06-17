@@ -1,22 +1,23 @@
 # 📊 Sales Performance Analysis
 
-This project involves cleaning, analyzing, and visualizing sales data using Python and Power BI.
+This project involves cleaning, analyzing, and visualizing sales data using Python. It helps identify key trends in customer behavior, product performance, and revenue generation.
 
 ---
 
 ## 🛠️ Tools & Skills:
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Power BI
+- Jupyter Notebook
 - Data Cleaning
+- Exploratory Data Analysis (EDA)
 - Data Visualization
 
 ---
 
 ## 📝 Description:
-- Cleaned and transformed a sales dataset using Pandas.
-- Performed exploratory data analysis (EDA) to identify patterns and trends.
-- Built visualizations using Python (Seaborn/Matplotlib) and Power BI.
-- Extracted key performance metrics for customer segments and product categories.
+- Cleaned and transformed a 1000-row retail sales dataset using Pandas.
+- Performed EDA to discover patterns in sales by category, customer demographics, and time.
+- Built multiple visualizations using Seaborn and Matplotlib.
+- Derived key business insights from data trends.
 
 ---
 
@@ -44,15 +45,11 @@ This project involves cleaning, analyzing, and visualizing sales data using Pyth
 - 💰 **Total Revenue:** ₹ 4,56,000  
 - 📦 **Total Quantity Sold:** 2,514 units  
 - 👕 **Most Selling Category:** Clothing  
-- 🧑‍🤝‍🧑 **Top Customers Contribute:** 20%+ of total revenue  
-- 📈 Highest sales observed during festive months (Nov–Dec)
-
-- Sales steadily increase over months with seasonal spikes.
-- Fashion and Electronics are the top-selling product categories.
-- Female customers have a slightly higher average spend.
-- Majority of buyers fall in the age group 25–40.
-- Top 10 customers contribute a significant portion of total revenue.
+- 👩‍🦰 **Female customers contributed slightly higher total sales**  
+- 👤 **Most buyers belong to the 25–40 age group**  
+- 🏆 **Top 10 customers generated more than 20% of total revenue**
 
 ---
 
 ## 📁 Project Structure:
+
